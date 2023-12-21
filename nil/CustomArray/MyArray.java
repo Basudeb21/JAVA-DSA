@@ -1,4 +1,4 @@
-package nil.array;
+package nil.CustomArray;
 import java.util.Scanner;
 
 class ArrayTest{

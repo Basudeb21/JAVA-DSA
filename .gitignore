@@ -1,4 +1,0 @@
-# Ignore .class files in specific directories
-JAVA DSA/nil/CustomArray/*.class
-java DSA/nil/CustomArrayList/*.class
-java DSA/nil/CustomLinkedList/*.class
